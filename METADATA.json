@@ -4,7 +4,7 @@
     "id": "crackdn-segmentation",
     "name": "CrackDN",
     "short_name": "crackdn-seg",
-    "description": "Segmentation packaging of CrackDN (CrackDataset_DL_HY SematicSeg_Dataset), with pixel-level pavement crack masks.",
+    "description": "Segmentation packaging of CrackDN (CrackDataset_DL_HY), with pixel-level pavement crack masks.",
     "year": 2020
   },
   "project_context": {
