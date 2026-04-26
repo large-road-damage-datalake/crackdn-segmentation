@@ -15,16 +15,16 @@
   "data": [
     [
       "crack",
-      2404,
-      0.3809,
+      2285,
+      0.4007,
       15.406,
-      0.0001,
-      1.0,
-      0.1042,
+      0.0016,
+      2.0,
+      0.2083,
       960.0,
       100.0,
-      177.92,
-      18.5337
+      187.04,
+      19.4836
     ]
   ],
   "description": "Area and height are relative to image size where (%) columns are 0-100 scale."

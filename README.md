@@ -6,7 +6,7 @@ CrackDN segmentation is a task-specific package derived from the SematicSeg_Data
 
 - Task: segmentation
 - Images: 468
-- Annotations: 2404
+- Annotations: 2285
 - Classes: 1 (crack)
 - Annotation format: paired PNG masks
 

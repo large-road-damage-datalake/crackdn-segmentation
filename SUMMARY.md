@@ -4,7 +4,7 @@
 - Source dataset: CrackDataset_DL_HY / SematicSeg_Dataset
 - Task: segmentation
 - Image count: 468
-- Annotation count: 2404
+- Annotation count: 2285
 - Class setup: 1 (crack)
 
 Primary reference:

@@ -1,13 +1,29 @@
 {
   "total_images": 468,
-  "total_annotations": 2404,
+  "total_annotations": 2285,
   "total_classes": 1,
+  "annotated_images": 468,
+  "annotation_coverage": 1.0,
+  "image_resolution_histogram": {
+    "1280x960": 468
+  },
+  "resolution_details": [
+    {
+      "resolution": "1280x960",
+      "count": 468
+    }
+  ],
   "splits_breakdown": {
     "data": {
       "images": 468,
-      "annotations": 2404,
+      "annotations": 2285,
+      "annotated_images": 468,
+      "annotation_coverage": 1.0,
       "classes": {
-        "crack": 2404
+        "crack": 2285
+      },
+      "image_resolution_histogram": {
+        "1280x960": 468
       }
     }
   }
